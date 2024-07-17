@@ -1,5 +1,4 @@
-/* override placeholder color of bootstrap */
-
+/* Override placeholder color of Bootstrap */
 .form-control::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
   opacity: 1; /* Firefox */
